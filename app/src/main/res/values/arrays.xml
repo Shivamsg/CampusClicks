@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="places">
+        <item>#1</item>
+        <item>#2</item>
+        <item>#3</item>
+        <item>#4</item>
+        <item>#5</item>
+        <item>#6</item>
+        <item>#7</item>
+        <item>#8</item>
+        <item>#9</item>
+        <item>#10</item>
+        <item>#11</item>
+        <item>#12</item>
+        <item>#13</item>
+        <item>#14</item>
+        <item>#15</item>
+        <item>#16</item>
+        <item>#17</item>
+        <item>#18</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>Contestant Name: Rahul Ashok Verma
+
+        </item>
+        <item>Contestant Name : Priya Thakur
+        </item>
+        <item>
+            Contestant Name : Abhigyan Biswas
+
+        </item>
+        <item>
+            Contestant Name : Gaurav Khandelwal
+
+        </item>
+        <item>
+            Contestant Name: Manva Mohamned Tokir Abdul Majid
+
+        </item>
+        <item>
+            Contestant Name: Nilesh Meena
+
+        </item>
+        <item>
+           Contestant Name : Mohit Choudhary
+        </item>
+        <item>
+            Contestant Name : Tejeshwar Saini
+
+        </item>
+        <item>
+            Contestant Name : Jaipal Singh
+
+        </item>
+        <item>
+            Contestant Name : Sandeep Kumar
+
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+
+
+    </string-array>
+    <string-array name="place_details">
+        <item>Contestant Name: Rahul Ashok Verma
+                College : IIIT KOTA
+        </item>
+        <item>Contestant Name : Priya Thakur
+                College : IIIT KOTA
+
+                Walking back from class, this road gives a perfect chance to ponder about the day by creating a beautiful scenery ahead.
+        </item>
+        <item>
+            Contestant Name : Abhigyan Biswas
+            College : Mnit Jaipur
+
+            Photo Title: Dusk only to dawn again.
+
+            Explaination: A usual sunset is happening ultimately to take rise again the next day and repeat the cycle.
+
+        </item>
+        <item>
+            Contestant Name : Gaurav Khandelwal
+            College : IIIT KOTA
+
+            Prabha bhavan
+
+        </item>
+        <item>
+            Contestant Name: Manva Mohamned Tokir Abdul Majid
+            College : IIIT KOTA
+        </item>
+        <item>
+            Contestant Name: Nilesh Meena
+            College : IIIT KOTA
+        </item>
+        <item>
+            Contestant Name : Mohit Choudhary
+            College : IIIT KOTA
+
+            Here is your aurobindo hostel seems like an engineer\'s life
+        </item>
+        <item>
+            Contestant Name : Tejeshwar Saini
+            College : IIIT KOTA
+
+            A tree 😜
+
+        </item>
+        <item>
+            Contestant Name : Jaipal Singh
+            College : IIIT KOTA
+
+            First light in Hostel 6
+            Best memory of hostel :
+            - 3:25 A.M.
+            - Last Paper
+            - 1 Book
+            - Maggie Noodles
+            - 8 Duffers
+            - A Hostel Room
+
+        </item>
+        <item>
+            Contestant Name : Sandeep Kumar
+            College : IIIT KOTA
+
+            Aurobindo Hostel.
+
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+        <item>
+            Misc
+        </item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>Football Ground</item>
+        <item>In between Journey</item>
+        <item>Hostel</item>
+        <item>Prabha Bhavan</item>
+        <item>Prabha Bhavan</item>
+        <item>VLTC</item>
+        <item>Hostel</item>
+        <item>Hostel</item>
+        <item>Hostel</item>
+        <item>Hostel</item>
+        <item>MNIT</item>
+        <item>MNIT</item>
+        <item>MNIT</item>
+        <item>MNIT</item>
+        <item>MNIT</item>
+        <item>MNIT</item>
+        <item>MNIT</item>
+        <item>MNIT</item>
+
+    </string-array>
+    <array name="place_avator">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+        <item>@drawable/k</item>
+        <item>@drawable/l</item>
+        <item>@drawable/m</item>
+        <item>@drawable/n</item>
+        <item>@drawable/o</item>
+        <item>@drawable/p</item>
+        <item>@drawable/q</item>
+        <item>@drawable/r</item>
+    </array>
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+        <item>@drawable/k</item>
+        <item>@drawable/l</item>
+        <item>@drawable/m</item>
+        <item>@drawable/n</item>
+        <item>@drawable/o</item>
+        <item>@drawable/p</item>
+        <item>@drawable/q</item>
+        <item>@drawable/r</item>
+
+    </array>
+</resources>

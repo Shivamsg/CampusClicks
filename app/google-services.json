@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "162775092836",
+    "firebase_url": "https://campusclicks-8c898.firebaseio.com",
+    "project_id": "campusclicks-8c898",
+    "storage_bucket": "campusclicks-8c898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162775092836:android:7a28cd5f9c698dc9",
+        "android_client_info": {
+          "package_name": "com.example.android.materialdesigncodelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162775092836-bqf59i4qnd1k1rqgt3s7q0v3he6nbhp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.materialdesigncodelab",
+            "certificate_hash": "c23481a0a2aa7161def3116bca5e8e2b878a7c67"
+          }
+        },
+        {
+          "client_id": "162775092836-ir7sin59oouoqu9ct5b4ubjgdvttbrjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDONTMSAFEzu45dKBxzJn1BVpGILa48LOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162775092836-ir7sin59oouoqu9ct5b4ubjgdvttbrjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
