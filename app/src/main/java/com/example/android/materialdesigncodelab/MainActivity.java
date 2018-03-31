@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
         View headerView = navigationView.getHeaderView(0);
         mail = (TextView) headerView.findViewById(R.id.mail);
         Intent startingIntent = getIntent();
-        String whatYouSent = startingIntent.getStringExtra("message");
+        final String whatYouSent = startingIntent.getStringExtra("message");
 
         if(whatYouSent!=null)
             mail.setText(whatYouSent);
@@ -125,8 +125,13 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Snackbar.make(v, "Hello Snackbar!",
+
+                if(whatYouSent==null)
+                    Snackbar.make(v, "Login or SignIn to upload your entry!",
                         Snackbar.LENGTH_LONG).show();
+                else
+                    Snackbar.make(v, "Competetion has ended, Better luck next year!",
+                            Snackbar.LENGTH_LONG).show();
             }
         });
     }
