@@ -25,12 +25,16 @@ import android.support.v7.widget.Toolbar;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.google.firebase.auth.FirebaseAuth;
+
 /**
  * Provides UI for the Detail page with Collapsing Toolbar.
  */
 public class DetailActivity extends AppCompatActivity {
 
     public static final String EXTRA_POSITION = "position";
+
+    private FirebaseAuth mAuth;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
